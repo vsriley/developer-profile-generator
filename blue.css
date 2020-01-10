@@ -1,0 +1,15 @@
+.btnColor{
+    color: black;
+    background-color: lightskyblue;
+    border: none;
+}
+.bodyColor{
+    background-color: blue;
+    color: lightgray;
+}
+.bioImg{
+    border: 2px solid blue;
+}
+.mainColor{
+    color: blue;
+}

@@ -1,0 +1,14 @@
+.btnColor{
+    color: black;
+    background-color: lavender;
+    border: none;
+}
+.bodyColor{
+    background-color: purple;
+}
+.bioImg{
+    border: 2px solid purple;
+}
+.mainColor{
+    color: purple;
+}

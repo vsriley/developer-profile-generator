@@ -1,0 +1,14 @@
+.btnColor{
+    color: black;
+    background-color: salmon;
+    border: none;
+}
+.bodyColor{
+    background-color: red;
+}
+.bioImg{
+    border: 2px solid red;
+}
+.mainColor{
+    color: red;
+}
